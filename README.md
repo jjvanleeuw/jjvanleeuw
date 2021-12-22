@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jjvanleeuw
+- 👋 Hi, I’m Joachim van Leeuwen, 21 years old and currently a Dutch student completing a Master's degree in Sustainable Business and Innovation
 - 👀 I’m interested in starting a profitable website in the future
 - 🌱 I’m currently learning how to write basic html and css
 - 💞️ I’m looking to collaborate on any website that has a business attached to it
